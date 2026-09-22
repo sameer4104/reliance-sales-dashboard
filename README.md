@@ -27,7 +27,7 @@ The goal of this project is to transform raw retail sales data into an executive
 
 > *(Upload your dashboard screenshot to the `images/` folder and update the link below)*
 
-![Reliance Sales Dashboard](images/dashboard_preview.png)
+![Reliance Sales Dashboard](images/sales_analysis_dashboard.png)
 
 ---
 
