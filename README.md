@@ -25,9 +25,10 @@ The goal of this project is to transform raw retail sales data into an executive
 
 ## 🖼️ Dashboard Preview
 
-> *(Upload your dashboard screenshot to the `images/` folder and update the link below)*
+<img width="1387" height="695" alt="sales_analysis_dashboard" src="https://github.com/user-attachments/assets/0b0e4980-785f-43ab-b13f-790dd160df52" />
 
-<img width="1387" height="695" alt="sales_analysis_dashboard" src="https://github.com/user-attachments/assets/b5099583-a43e-4fcd-8d5a-26262640742b" />
+
+
 
 
 ---
