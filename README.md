@@ -40,15 +40,5 @@ The goal of this project is to transform raw retail sales data into an executive
 3. **Sales Growth Trends:** Seasonal spikes observed during Q3 and festive periods, providing opportunities for inventory management.
 4. **Customer Order Patterns:** Evaluated average basket sizes and bulk order trends across different distribution channels.
 
----
 
-## 📁 Repository Structure
-
-```text
-reliance-sales-dashboard/
-│
-├── relience sales dashboard.xlsx   # Main Excel Workbook (Raw Data, Cleaned Data, Pivot Tables & Dashboard)
-├── images/                         # Folder containing dashboard preview screenshots
-│   └── dashboard_preview.png
-├── README.md                       # Detailed Project Documentation
 
